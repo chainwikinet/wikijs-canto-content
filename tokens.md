@@ -2,7 +2,7 @@
 title: Tokens on Canto
 description: token supply, distribution, inflation, issuance, bridging
 published: true
-date: 2022-08-17T20:27:22.050Z
+date: 2022-08-17T20:29:03.344Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-17T18:19:29.001Z
@@ -57,9 +57,9 @@ Canto IBC assets:
 | Token | Source | Destination | ERC-20 |
 |---|---|---|---|
 | ATOM | [Cosmos Hub channel-358](https://www.mintscan.io/cosmos/relayers/channel-358) | Canto channel-2 |  [0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265](https://evm.explorer.canto.io/token/0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265/) |
-| gbcETH  | GBC channel-? | Canto channel-0 |  [0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687](https://evm.explorer.canto.io/token/0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687/) |
-| gbcUSDC | GBC channel-? | Canto channel-0 | [0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd](https://evm.explorer.canto.io/token/0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd/) |
-| gbcUSDT | GBC channel-? | Canto channel-0 | [0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75](https://evm.explorer.canto.io/token/0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75/)  |
+| gbcETH  | [GBC channel-88](https://www.mintscan.io/gravity-bridge/relayers/channel-88) | Canto channel-0 |  [0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687](https://evm.explorer.canto.io/token/0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687/) |
+| gbcUSDC | [GBC channel-88](https://www.mintscan.io/gravity-bridge/relayers/channel-88) | Canto channel-0 | [0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd](https://evm.explorer.canto.io/token/0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd/) |
+| gbcUSDT | [GBC channel-88](https://www.mintscan.io/gravity-bridge/relayers/channel-88) | Canto channel-0 | [0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75](https://evm.explorer.canto.io/token/0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75/)  |
 | 1 | 2 | 3 | 4 |
 
 
