@@ -2,7 +2,7 @@
 title: Token Distribution
 description: token supply, distribution, inflation, issuance
 published: true
-date: 2022-08-17T18:26:19.191Z
+date: 2022-08-17T18:26:50.410Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-17T18:19:29.001Z
