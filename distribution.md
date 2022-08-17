@@ -1,8 +1,8 @@
 ---
-title: Token Distribution
-description: token supply, distribution, inflation, issuance
+title: Tokens on Canto
+description: token supply, distribution, inflation, issuance, bridging
 published: true
-date: 2022-08-17T19:51:12.417Z
+date: 2022-08-17T20:11:47.391Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-17T18:19:29.001Z
