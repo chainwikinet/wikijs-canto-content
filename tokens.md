@@ -1,8 +1,8 @@
 ---
-title: Tokens on Canto
-description: token supply, distribution, inflation, issuance, bridging
+title: Token Distribution
+description: token supply, distribution, inflation, issuance
 published: true
-date: 2022-08-17T18:56:45.480Z
+date: 2022-08-17T19:51:12.417Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-17T18:19:29.001Z
@@ -37,15 +37,25 @@ If you didn't get the airdrop and think you should have, fill out the form in [t
 
 
 # Bridging
+## Ethereum to Canto
 
 The canonical bridge for Canto is the Gravity Bridge Chain, an independent, sovereign Cosmos zone that operates a bridge between Cosmos chains and Ethereum.
 
-- use the GBC bridge: 
-- read more about GBC: 
+- use the GBC bridge: https://bridge.canto.io/
+- read more about GBC: https://www.gravitybridge.net/
+- GBC bridge UI run by Blockscape: https://bridge.blockscape.network/ (UNTESTED)
+
+## Cosmos Zones to Canto
 
 Canto also supports assets from other Cosmos chains; these assets can be bridged to Canto using the native Cosmos IBC bridge.
 
 > Assets bridged to Canto by IBC can only be used in Canto EVM applications by converting them into Canto ERC-20 tokens.  Canto governance controls the list of supported tokens that can be converted.  For example, see [governance proposal #4 to map Canto ERC-20 tokens for Cosmos Hub's ATOM token](https://governance.canto.io/).
 {.is-info}
 
+Canto IBC assets:
+
+| Token | Source | Destination | ERC-20 |
+|---|---|---|---|
+| ATOM | Cosmos Hub channel- | c |   |
+| 1 | 2 | 3 |   |
 
