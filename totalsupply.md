@@ -2,7 +2,7 @@
 title: Token Distribution
 description: token supply, distribution, inflation, issuance
 published: true
-date: 2022-08-17T18:19:29.001Z
+date: 2022-08-17T18:26:19.191Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-17T18:19:29.001Z
@@ -25,3 +25,7 @@ via [the launch announcement on Mirror](https://mirror.xyz/0x4CeD9817cAD891aEFfb
 > community pool.
 
 Medium-Term liquidity incentives will be distributed over the first six months after launch; Long-Term incentives will be distributed over some number of years (10?).
+
+## Airdrop
+
+If you didn't get the airdrop and think you should have, fill out the form in [the #airdrop-form Discord channel](https://discord.com/channels/993968517906960445/1009274306133508147) and wait (patiently!) for a response: https://forms.gle/LR16PdAPF6ox1csy8
