@@ -1,8 +1,8 @@
 ---
-title: Token Distribution
-description: token supply, distribution, inflation, issuance
+title: Token Distribution + Bridging
+description: token supply, distribution, inflation, issuance, bridging
 published: true
-date: 2022-08-17T18:54:13.534Z
+date: 2022-08-17T18:55:10.764Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-17T18:19:29.001Z
