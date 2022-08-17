@@ -2,7 +2,7 @@
 title: Tokens on Canto
 description: token supply, distribution, inflation, issuance, bridging
 published: true
-date: 2022-08-17T20:29:03.344Z
+date: 2022-08-17T21:04:26.329Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-17T18:19:29.001Z
@@ -44,6 +44,8 @@ The canonical bridge for Canto is the Gravity Bridge Chain, an independent, sove
 - use the GBC bridge: https://bridge.canto.io/
 - read more about GBC: https://www.gravitybridge.net/
 - GBC bridge UI run by Blockscape: https://bridge.blockscape.network/ (UNTESTED)
+
+The GBC bridge deposit contract on Ethereum is [0xa4108aa1ec4967f8b52220a4f7e94a8201f2d906](https://etherscan.io/address/0xa4108aa1ec4967f8b52220a4f7e94a8201f2d906).
 
 ## Cosmos Zones to Canto
 
