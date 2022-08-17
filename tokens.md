@@ -2,7 +2,7 @@
 title: Tokens on Canto
 description: token supply, distribution, inflation, issuance, bridging
 published: true
-date: 2022-08-17T20:11:47.391Z
+date: 2022-08-17T20:16:40.885Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-17T18:19:29.001Z
@@ -56,6 +56,6 @@ Canto IBC assets:
 
 | Token | Source | Destination | ERC-20 |
 |---|---|---|---|
-| ATOM | Cosmos Hub channel- | c |   |
+| ATOM | [Cosmos Hub channel-358](https://www.mintscan.io/cosmos/relayers/channel-358) | Canto channel-2 |   |
 | 1 | 2 | 3 |   |
 
