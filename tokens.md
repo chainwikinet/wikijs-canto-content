@@ -2,7 +2,7 @@
 title: Tokens on Canto
 description: token supply, distribution, inflation, issuance, bridging
 published: true
-date: 2022-08-17T21:04:26.329Z
+date: 2022-08-18T16:23:28.612Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-17T18:19:29.001Z
@@ -49,7 +49,7 @@ The GBC bridge deposit contract on Ethereum is [0xa4108aa1ec4967f8b52220a4f7e94a
 
 ## Cosmos Zones to Canto
 
-Canto also supports assets from other Cosmos chains; these assets can be bridged to Canto using the native Cosmos IBC bridge.
+Canto also supports assets from other Cosmos chains; these assets can be bridged to Canto using the native Cosmos IBC bridge.  The official docs have [a walkthrough for bridging ATOM from Cosmos Hub to Canto using the Kepler IBC feature](https://docs.canto.io/user-guides/bridging-assets#bridging-assets-from-atom-to-canto-via-ibc-transfer).
 
 > Assets bridged to Canto by IBC can only be used in Canto EVM applications by converting them into Canto ERC-20 tokens.  Canto governance controls the list of supported tokens that can be converted.  For example, see [governance proposal #4 to map Canto ERC-20 tokens for Cosmos Hub's ATOM token](https://governance.canto.io/).
 {.is-info}
