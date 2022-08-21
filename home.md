@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Community Chainwiki
 published: true
-date: 2022-08-21T14:42:43.256Z
+date: 2022-08-21T14:44:18.763Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -48,8 +48,10 @@ Others can be found by asking on [Canto Discord](https://discord.gg/AEzZECRWs4).
 
 Canto faucets:
 
-- [#social_faucet](https://discord.gg/AEzZECRWs4) on Discord
+- beg for tokens in [#social_faucet](https://discord.gg/AEzZECRWs4) on Discord
+- beg for tokens in [the trollbox on Slingshot](https://app.slingshot.finance/trade/CANTO)
 - [https://cantofaucet.netlify.app](https://cantofaucet.netlify.app/) (careful, untested!)
+
 
 Check out [the tokens page](/tokens) to learn more about bridging assets to Canto from Ethereum or Cosmos.
 
