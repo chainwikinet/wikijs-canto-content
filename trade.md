@@ -2,7 +2,7 @@
 title: Markets
 description: where to buy Canto assets
 published: true
-date: 2022-08-21T13:07:05.995Z
+date: 2022-08-21T13:08:38.524Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-17T18:27:31.964Z
@@ -15,8 +15,6 @@ dateCreated: 2022-08-17T18:27:31.964Z
 No centralized exchanges currently list `$CANTO`.
 Watch the Coingecko and Coinmarketcap pages for updates:
 - https://www.coingecko.com/en/coins/canto
-- 
-
 
 
 # Decentralized Exchanges
