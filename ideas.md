@@ -2,7 +2,7 @@
 title: Ideas
 description: growing and enhancing the Canto ecosystem
 published: true
-date: 2022-08-21T15:50:36.612Z
+date: 2022-08-21T15:53:50.739Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-21T15:50:36.612Z
@@ -18,3 +18,4 @@ dateCreated: 2022-08-21T15:50:36.612Z
 
 # Research
 - [ ] develop an IBC strategy for Canto
+- [ ] improve Slingshot routing (e.g. ATOM → USDC)
