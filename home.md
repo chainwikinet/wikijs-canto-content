@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Community Chainwiki
 published: true
-date: 2022-08-17T21:02:37.378Z
+date: 2022-08-21T13:56:13.079Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -39,9 +39,9 @@ symbol   : CANTO
 explorer : https://evm.explorer.canto.io
 ```
 Alternative RPCs:
+- https://mainnode.plexnode.org:8545 
 - https://canto.slingshot.finance
-- https://canto.evm.chandrastation.com
-- https://canto.slingshot.finance
+- https://canto.evm.chandrastation.com (NOT working!)
 
 Others can be found by asking on [Canto Discord](https://discord.gg/EXEpr6zEgB).
 
