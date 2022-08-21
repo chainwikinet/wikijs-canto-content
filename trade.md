@@ -2,7 +2,7 @@
 title: Markets
 description: where to buy Canto assets
 published: true
-date: 2022-08-21T13:18:06.092Z
+date: 2022-08-21T13:32:09.367Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-17T18:27:31.964Z
@@ -20,7 +20,8 @@ Watch the Coingecko and Coinmarketcap pages for updates:
 ## Decentralized Exchanges
 
 ### Canto DEX
-Canto has a built-in AMM DEX—a clone of Solidly (verify this!)—with no fees.
+Canto has a built-in AMM DEX—a clone of Solidly (verify this!)—with no fees.  More info in the official docs:
+- https://docs.canto.io/overview/canto-dex-and-lp-interface
 
 The DEX aggregator Slingshot provides a frontend for trading assets on the Canto DEX:
 - https://app.slingshot.finance/trade/CANTO
