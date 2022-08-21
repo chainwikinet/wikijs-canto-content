@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Community Chainwiki
 published: true
-date: 2022-08-21T14:38:22.907Z
+date: 2022-08-21T14:41:30.046Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -44,7 +44,12 @@ Alternative RPCs:
 - https://jsonrpc.canto.nodestake.top
 - https://canto.evm.chandrastation.com
 
-Others can be found by asking on [Canto Discord](https://discord.gg/EXEpr6zEgB).
+Others can be found by asking on [Canto Discord](https://discord.gg/AEzZECRWs4).
+
+Canto faucets:
+
+- [#social_faucet](https://discord.gg/AEzZECRWs4) on Discord
+- [https://cantofaucet.netlify.app](https://cantofaucet.netlify.app/) (careful, untested!)
 
 
 # About
