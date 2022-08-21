@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Community Chainwiki
 published: true
-date: 2022-08-21T14:44:18.763Z
+date: 2022-08-21T15:07:35.010Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -21,7 +21,7 @@ Canto DEX — a zero-fee DEX for liquidity providers
 Canto Lending Market (CLM) — a pooled lending Compound v2 fork
 $NOTE — a fully collateralized unit of account token issued by the CLM which also serves the ecosystem as a USDC/USDT soft-pegged stablecoin
 
-Canto had no private or public sale; read more about [the token distribution](/en/distribution).
+Canto had no private or public sale; read more about [the token distribution](/en/tokens).
 
 
 # Connecting to Canto
