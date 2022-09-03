@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Community Chainwiki
 published: true
-date: 2022-08-21T15:07:35.010Z
+date: 2022-09-03T01:18:10.337Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -28,8 +28,11 @@ Canto had no private or public sale; read more about [the token distribution](/e
 
 - semi-official `getting started` guide: https://docs.canto.io/user-guides/getting-started
 
-Interact with applications on the Canto EVM using a browswer like Metamask.
-Add the Canto network:
+Interact with applications on the Canto EVM using a browser extension like Metamask.
+
+
+## Canto Mainnet
+Add the Canto real-money network:
 
 ```
 name     : Canto
@@ -54,6 +57,18 @@ Canto faucets:
 
 
 Check out [the tokens page](/tokens) to learn more about bridging assets to Canto from Ethereum or Cosmos.
+
+## Canto Testnet
+
+For developers and testers:
+```
+Network Name: Canto Testnet
+RPC URL: https://eth.plexnode.wtf/
+Chain ID: 740
+Currency Symbol: CANTO
+```
+
+No testnet block explorer yet.
 
 
 # About
